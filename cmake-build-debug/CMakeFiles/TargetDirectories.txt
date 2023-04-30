@@ -1,0 +1,3 @@
+C:/Users/HP/Desktop/data structure in c projects/project I final final/cmake-build-debug/CMakeFiles/project_I_final_final.dir
+C:/Users/HP/Desktop/data structure in c projects/project I final final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/data structure in c projects/project I final final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
